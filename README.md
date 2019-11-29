@@ -1,12 +1,31 @@
 # What I Learned In Week 12
 
-## ToDOM
+## [ToDOM](https://github.com/ignitikus/todom)
+Learned how to make a to-do list in DOM.
 
-## Componentize
+## [Componentize](https://github.com/ignitikus/componentize)
+Learned about CSS components(Bootstrap and Semantic UI)
 
-## ToDOM-Two
+## [ToDOM-Two](https://github.com/ignitikus/better-todo-app)
+Pair exercise on how to improve to-do list. 
 
-## OOPs
+## [OOPs](https://github.com/ignitikus/oops)
+Intro to Object Oriented Programming. \
+`New Syntax!`   
+`this` - keywords that refers to owner object.  
+For example: 
+```
+const myFunc = (stuff)=>{
+  return {
+    firstName: Gordon,
+    lastName: Freeman,
+
+    fullName: ()=>{
+        return `${this.firstName} ${this.lastName}`
+    }
+  }
+}
+```
 
 ## CodeWars
 
